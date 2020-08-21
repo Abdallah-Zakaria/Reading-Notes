@@ -2,6 +2,12 @@
 
 ## About Me
 
+I'm Abdallah Zakaria, 23 years old from Amman-Jordan.
+
+I graduated in 2019 with bachelor's degree in civil engineering,  My strengths are my attitude that I like to take challenges that I can do it and motivated person have goals to achieve it.
+
+My short term goal to get the max Software knowledge from ASAC to start from it my future career.
+
 ## My Reading Notes
 [Code 102 - Intro to Software Development](./code-102/code-102.md)  
 
