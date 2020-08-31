@@ -10,7 +10,7 @@
 |Read 4     | [Link 4 ](./read04.md)|
 |Read 5     | [Link 5 ](./read05.md)|
 |Read 6     | [Link 6 ](./read06.md)|
-|Read 7     | [Link 7 ](./read)|
+|Read 7     | [Link 7 ](./read07.md)|
 |Read 8     | [Link 8 ](./read)|
 |Read 9     | [Link 9 ](./read)|
 |Read 10    | [Link 10](./read)|
