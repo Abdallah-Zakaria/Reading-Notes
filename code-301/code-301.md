@@ -13,7 +13,7 @@
 |Read 7     | [Link 7 ](./read07.md)|
 |Read 8     | [Link 8 ](./read08.md)|
 |Read 9     | [Link 9 ](./read09.md)|
-|Read 10    | [Link 10](./read)|
+|Read 10    | [Link 10](./read10.md)|
 |Read 11    | [Link 11](./read)|
 |Read 12    | [Link 12](./read)|
 |Read 13    | [Link 13](./read)|
