@@ -4,10 +4,7 @@
 
 |Read No.   | Link                   |
 |-----------|----------------------- |
-<<<<<<< HEAD
 |Read 0     | [Link 0  ](./read00.md)|
-=======
->>>>>>> 12b53662d2d64a82ecbca2b494e7d3d49c0b3ea7
 |Read 1     | [Link 1  ](./read01.md)|
 |Read 2     | [Link 2  ]()|
 |Read 3     | [Link 3  ]()|
