@@ -4,7 +4,8 @@
 
 |Read No.   | Link                   |
 |-----------|----------------------- |
-|Read 1     | [Link 1  ](./read01.md )|
+|Read 0     | [Link 0  ](./read00.md)|
+|Read 1     | [Link 1  ](./read01.md)|
 |Read 2     | [Link 2  ]()|
 |Read 3     | [Link 3  ]()|
 |Read 4     | [Link 4  ]()|
