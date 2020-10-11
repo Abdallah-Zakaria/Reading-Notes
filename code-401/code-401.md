@@ -4,9 +4,9 @@
 
 |Read No.   | Link                   |
 |-----------|----------------------- |
-|Read 0     | [Link 0  ](./read00.md)|
-|Read 1     | [Link 1  ](./read01.md)|
-|Read 2     | [Link 2  ]()|
+|prep work   | [Link 0  ](./read00.md)|
+|Node Ecosystem, TDD, CI/CD    | [Link 1  ](./read01.md)|
+|Classes, Inheritance     | [Link 2  ](./read02.md)|
 |Read 3     | [Link 3  ]()|
 |Read 4     | [Link 4  ]()|
 |Read 5     | [Link 5  ]()|
