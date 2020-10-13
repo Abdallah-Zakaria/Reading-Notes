@@ -7,7 +7,7 @@
 |prep work   | [Link 0  ](./read00.md)|
 |Node Ecosystem, TDD, CI/CD    | [Link 1  ](./read01.md)|
 |Classes, Inheritance     | [Link 2  ](./read02.md)|
-|Read 3     | [Link 3  ]()|
+|Data Modeling & NoSQL 3     | [Link 3  ](./read03.md)|
 |Read 4     | [Link 4  ]()|
 |Read 5     | [Link 5  ]()|
 |Read 6     | [Link 6  ]()|
