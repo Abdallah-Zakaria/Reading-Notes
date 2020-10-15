@@ -9,8 +9,8 @@
 |Classes, Inheritance     | [Link 2  ](./read02.md)|
 |Data Modeling & NoSQL 3     | [Link 3  ](./read03.md)|
 |Advanced Mongo/Mongoose     | [Link 4  ](./read04.md)|
-|Linked Lists    | [Link 5  ]()|
-|Read 6     | [Link 6  ](./read04.md)|
+|Linked Lists    | [Link 5  ](./read05.md)|
+|Read 6     | [Link 6  ]()|
 |Read 7     | [Link 7  ]()|
 |Read 8     | [Link 8  ]()|
 |Read 9     | [Link 9  ]()|
