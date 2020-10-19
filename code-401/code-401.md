@@ -11,7 +11,7 @@
 |Advanced Mongo/Mongoose     | [Link 4  ](./read04.md)|
 |Linked Lists    | [Link 5  ](./read05.md)|
 |HTTP and REST    | [Link 6  ](./read06.md)|
-|Read 7     | [Link 7  ]()|
+|Express   | [Link 7  ](./read07.md)|
 |Read 8     | [Link 8  ]()|
 |Read 9     | [Link 9  ]()|
 |Read 10    | [Link 10 ]()|
