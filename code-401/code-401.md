@@ -12,7 +12,7 @@
 |Linked Lists    | [Link 5  ](./read05.md)|
 |HTTP and REST    | [Link 6  ](./read06.md)|
 |Express   | [Link 7  ](./read07.md)|
-|Read 8     | [Link 8  ]()|
+|Express Routing & Connected API     | [Link 8  ](./read08.md)|
 |Read 9     | [Link 9  ]()|
 |Read 10    | [Link 10 ]()|
 |Read 11    | [Link 11 ]()|
