@@ -17,7 +17,7 @@
 |Stacks and Queues    | [Link 10 ](./read10.md)|
 |Authentication   | [Link 11 ](./read11.md)|
 |OAuth    | [Link 12 ](./read12.md)|
-|Read 13    | [Link 13 ]()|
+|Bearer Authorization    | [Link 13 ](./read13.md)|
 |Read 14    | [Link 14 ]()|
 |Read 15    | [Link 15 ]()|
 |Read 16    | [Link 16 ]()|
