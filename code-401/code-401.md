@@ -16,7 +16,7 @@
 |API Server     | [Link 9  ](./read09.md)|
 |Stacks and Queues    | [Link 10 ](./read10.md)|
 |Authentication   | [Link 11 ](./read11.md)|
-|Read 12    | [Link 12 ]()|
+|OAuth    | [Link 12 ](./read12.md)|
 |Read 13    | [Link 13 ]()|
 |Read 14    | [Link 14 ]()|
 |Read 15    | [Link 15 ]()|
