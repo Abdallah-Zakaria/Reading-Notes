@@ -21,8 +21,8 @@
 |Access Control (ACL)    | [Link 14 ](./read14.md)|
 |Binary Trees     | [Link 15 ](./read15.md)|
 |Event Driven Applications    | [Link 16 ](./read16.md)|
-|Read 17    | [Link 17 ]()|
-|Read 18    | [Link 18 ]()|
+|TCP Servers    | [Link 17 ](./read17.md)|
+|Sockets.io   | [Link 18 ](./read18.md)|
 |Read 19    | [Link 19 ]()|
 |Read 20    | [Link 20 ]()|
 |Read 21    | [Link 21 ]()|
