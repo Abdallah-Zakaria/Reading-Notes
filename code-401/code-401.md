@@ -23,7 +23,7 @@
 |Event Driven Applications    | [Link 16 ](./read16.md)|
 |TCP Servers    | [Link 17 ](./read17.md)|
 |Sockets.io   | [Link 18 ](./read18.md)|
-|Read 19    | [Link 19 ]()|
+|Message Queues    | [Link 19 ](./read19.md)|
 |Read 20    | [Link 20 ]()|
 |Read 21    | [Link 21 ]()|
 |Read 22    | [Link 22 ]()|
