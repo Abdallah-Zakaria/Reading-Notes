@@ -24,9 +24,8 @@
 |TCP Servers    | [Link 17 ](./read17.md)|
 |Sockets.io   | [Link 18 ](./read18.md)|
 |Message Queues    | [Link 19 ](./read19.md)|
-
 |Component Based UI   | [Link 26 ](./read26.md)|
-|Read 27    | [Link 27 ](./read27.md)|
+|Props and State    | [Link 27 ](./read27.md)|
 |Read 28    | [Link 28 ]()|
 |Read 29    | [Link 29 ]()|
 |Read 30    | [Link 30 ]()|
