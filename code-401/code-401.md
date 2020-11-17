@@ -26,7 +26,7 @@
 |Message Queues    | [Link 19 ](./read19.md)|
 |Component Based UI   | [Link 26 ](./read26.md)|
 |Props and State    | [Link 27 ](./read27.md)|
-|Read 28    | [Link 28 ]()|
+|Component Composition    | [Link 28 ](./read28.md)|
 |Read 29    | [Link 29 ]()|
 |Read 30    | [Link 30 ]()|
 |Read 31    | [Link 31 ]()|
