@@ -27,8 +27,8 @@
 |Component Based UI   | [Link 26 ](./read26.md)|
 |Props and State    | [Link 27 ](./read27.md)|
 |Component Composition    | [Link 28 ](./read28.md)|
-|Routing    | [Link 29 ](./read29.md)|
-|Read 30    | [Link 30 ]()|
+|React Routing    | [Link 29 ](./read29.md)|
+|Hash Tables   | [Link 30 ](./read30.md)|
 |Read 31    | [Link 31 ]()|
 |Read 32    | [Link 32 ]()|
 |Read 33    | [Link 33 ]()|
