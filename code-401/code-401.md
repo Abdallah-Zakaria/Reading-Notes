@@ -27,7 +27,7 @@
 |Component Based UI   | [Link 26 ](./read26.md)|
 |Props and State    | [Link 27 ](./read27.md)|
 |Component Composition    | [Link 28 ](./read28.md)|
-|Read 29    | [Link 29 ]()|
+|Routing    | [Link 29 ](./read29.md)|
 |Read 30    | [Link 30 ]()|
 |Read 31    | [Link 31 ]()|
 |Read 32    | [Link 32 ]()|
