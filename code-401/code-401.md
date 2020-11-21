@@ -29,7 +29,7 @@
 |Component Composition    | [Link 28 ](./read28.md)|
 |React Routing    | [Link 29 ](./read29.md)|
 |Hash Tables   | [Link 30 ](./read30.md)|
-|Read 31    | [Link 31 ]()|
+|Hooks API   | [Link 31 ](./read31.md)|
 |Read 32    | [Link 32 ]()|
 |Read 33    | [Link 33 ]()|
 |Read 34    | [Link 34 ]()|
