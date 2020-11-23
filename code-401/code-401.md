@@ -30,8 +30,8 @@
 |React Routing    | [Link 29 ](./read29.md)|
 |Hash Tables   | [Link 30 ](./read30.md)|
 |Hooks API   | [Link 31 ](./read31.md)|
-|Read 32    | [Link 32 ]()|
-|Read 33    | [Link 33 ]()|
+|Custom Hooks    | [Link 32 ](./read32.md)|
+|Context API    | [Link 33 ](./read33.md)|
 |Read 34    | [Link 34 ]()|
 |Read 35    | [Link 35 ]()|
 |Read 36    | [Link 36 ]()|
