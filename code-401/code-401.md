@@ -32,7 +32,7 @@
 |Hooks API   | [Link 31 ](./read31.md)|
 |Custom Hooks    | [Link 32 ](./read32.md)|
 |Context API    | [Link 33 ](./read33.md)|
-|Read 34    | [Link 34 ]()|
+|Login and Auth    | [Link 34 ](./read34.md)|
 |Read 35    | [Link 35 ]()|
 |Read 36    | [Link 36 ]()|
 |Read 37    | [Link 37 ]()|
