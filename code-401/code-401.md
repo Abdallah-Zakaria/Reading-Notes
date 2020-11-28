@@ -34,7 +34,7 @@
 |Context API    | [Link 33 ](./read33.md)|
 |Login and Auth    | [Link 34 ](./read34.md)|
 |Graphs    | [Link 35 ](./read35.md)|
-|Read 36    | [Link 36 ]()|
+|Application State with Redux    | [Link 36 ](./read36.md)|
 |Read 37    | [Link 37 ]()|
 |Read 38    | [Link 38 ]()|
 |Read 39    | [Link 39 ]()|
