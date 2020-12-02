@@ -35,9 +35,9 @@
 |Login and Auth    | [Link 34 ](./read34.md)|
 |Graphs    | [Link 35 ](./read35.md)|
 |Application State with Redux    | [Link 36 ](./read36.md)|
-|Read 37    | [Link 37 ]()|
-|Read 38    | [Link 38 ]()|
-|Read 39    | [Link 39 ]()|
+|Combined Reducers    | [Link 37 ](./read37.md)|
+|Asynchronous Actions   | [Link 38 ](./read38.md)|
+|Additional Topics    | [Link 39 ](./read39.md)|
 |Read 40    | [Link 40 ]()|
 |Read 41    | [Link 41 ]()|
 |Read 42    | [Link 42 ]()|
